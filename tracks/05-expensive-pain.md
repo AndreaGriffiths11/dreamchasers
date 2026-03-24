@@ -37,6 +37,7 @@ No shame in asking. Every senior developer does this.
 - [GitHub Skills: Review Pull Requests](https://github.com/skills/review-pull-requests)
 - [GitHub Docs: About Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
 - [Holy Moly! GitHub Found 39 Million Leaked Secrets in 2024](https://dev.to/andreagriffiths11/holy-moly-github-found-39-million-leaked-secrets-in-2024-534o) — by Andrea Griffiths (security matters from day one)
+- [Your Model Choice Doesn't Matter as Much as You Think](https://dev.to/andreagriffiths11/your-model-choice-doesnt-matter-nearly-as-much-as-you-thinkand-thats-actually-good-news-20l8) — by Andrea Griffiths
 
 ## ⏭️ Next Track
 [Track 6: Going Bad →](06-going-bad.md)

@@ -44,7 +44,7 @@ And it builds it. For real.
 
 ## 📚 Go Deeper
 - [GitHub Copilot Free](https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/) — official announcement
-- [GitHub Skills: Code with Copilot](https://github.com/skills/copilot-codespaces-vscode)
+- [Copilot CLI Docs](https://docs.github.com/en/copilot/github-copilot-in-the-cli) — official setup guide
 - [Training Developers on GitHub Copilot: Lessons Learned](https://dev.to/andreagriffiths11/training-developers-on-github-copilot-lessons-learned-j5) — by Andrea Griffiths
 - [How I Built a Teen Slang Translator with Copilot](https://dev.to/andreagriffiths11/how-i-built-a-kid-slang-translator-with-github-copilot-and-claude-37-sonnet-2hh9) — by Andrea Griffiths
 

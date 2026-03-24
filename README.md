@@ -31,4 +31,4 @@ Because someone out there is scrolling past this right now thinking "I could nev
 
 ---
 
-*Built with [GitHub Copilot CLI](https://githubnext.com/projects/copilot-cli) 🎤*
+*Built with [GitHub Copilot CLI](https://docs.github.com/en/copilot/github-copilot-in-the-cli) 🎤*
